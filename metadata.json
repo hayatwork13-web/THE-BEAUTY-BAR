@@ -1,0 +1,6 @@
+{
+  "name": "The Beauty Bar",
+  "description": "Premium Ladies Beauty Salon & Bridal Studio in Hyderabad, Pakistan. Book appointments and inquiries on WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
