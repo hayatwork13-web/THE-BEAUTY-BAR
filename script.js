@@ -263,7 +263,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // ==========================================================================
   // 6. WHATSAPP INQUIRY FORMATTERS & FORM HANDLERS
   // ==========================================================================
-  const WHATSAPP_NUMBER = "923411111076"; // Target Shop Phone & WhatsApp
+  const WHATSAPP_NUMBER = "923411111005"; // Target Shop Phone & WhatsApp
   const contactForm = document.getElementById("contact-booking-form");
   const modalForm = document.getElementById("modal-booking-form");
 
